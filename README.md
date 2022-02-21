@@ -15,6 +15,6 @@ What we want to achieve:
 - Social networking
 
 This group project will span the entire semester, so the progress will be updated regularly.
-- `Project Prosal.pdf` completed on Feb. 7'
+- `Project Prosal.pdf` completed on Feb. 7
 
 Thank you :)
