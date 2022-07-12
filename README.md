@@ -1,6 +1,6 @@
 # iRecycler App Building
 
-This is an ongoing project for DSCI551 Foundations of Data Management @USC.
+This is the final project for DSCI 551 Foundations of Data Management @USC.
 
 My partner and I aim to build an information platform about re-leasing, re-sale and other demands within a certain area (for example ktown, downtown, DPS and other places near USC), hoping it can help corresponding users exchange information effectively and save time and money. For details, you can go to `Project Proposal.pdf`.
 
