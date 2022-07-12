@@ -3,7 +3,8 @@
 This is the final project for DSCI 551 Foundations of Data Management @USC.
 - `Project Proposal.pdf`
 - `Midterm Progress Report.pdf`
-- `Project Final Report.pdf` \
+- `Project Final Report.pdf`
+\
 - `Amazon Warehouse Scrape.ipynb`: This is the code for scraping sample postings from the first five pages of each product category on Amazon Warehouse using Selenium and BeautifulSoup.
 - `chromedriver`: This is needed for Selecnium web scraping.
 - `item_info.csv`: This is the scraped and cleaned data that is used to populate our database.
